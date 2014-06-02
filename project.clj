@@ -1,4 +1,4 @@
-(defproject io.framed/cee-format "0.1.0"
+(defproject io.framed/cee-format "0.1.1-SNAPSHOT"
   :description "Tools for syslog CEE format"
   :url "https://github.com/framed-data/cee-format"
   :license {:name "Eclipse Public License"
