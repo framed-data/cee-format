@@ -18,6 +18,8 @@ do any logging or syslog network communication per se.
 Basic Usage
 -----------
 
+Leiningen: `[io.framed/cee-format "0.1.0"]`
+
 ```clojure
 (require '[cee-format.core :as cee])
 
